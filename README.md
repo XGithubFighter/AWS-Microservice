@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 #MS test
 
+=======
+# MS test
+>>>>>>> cac9ad0e1fa91ccbfa026210998588431c8f6057
 # Go example projects
 
 MS test
