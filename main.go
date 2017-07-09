@@ -131,7 +131,7 @@ var tmpl = template.Must(template.New("tmpl").Parse(`
 	<h2>Is Go {{.Version}} out yet?</h2>
 	<h1>
 	{{if .Yes}}
-		<a href="{{.URL}}">YES!</a>
+		<a href="{{.URL}}">YES ... MS!</a>
 	{{else}}
 		No. :-(
 	{{end}}
